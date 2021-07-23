@@ -32,10 +32,10 @@ Mainly use python for data science stuff, I am also interested in UX/UI design a
 ## Hobbies
 
 - I can play saxophone and piano - very well
-- I can write music score using Sibelius/MuseScore - vey well
+- I can write music score using Sibelius/MuseScore
 - I can make music using Garageband/Bandlab
-- I can do graphic design stuff using Photoshop/Illstrator - very very well.
-- I read books and watch movies a lot (recently)
+- I can do graphic design stuff using Photoshop/Illstrator - very well.
+- I read books and watch movies a lot
 - Skilled in platformer games
 
 <!---
