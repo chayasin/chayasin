@@ -1,20 +1,20 @@
-# Welcome to Giraffe1010!
+# Welcome to Chayasin's github!
 
-- 👋 Hi, I’m @Giraffe1010
+- 👋 Hi, I’m @chayasin or Tenten is my nick name
 - 👀 I’m interested in Adaptive Leaning Model
-- 🌱 I’m currently learning MAB and deep learning model.
-- 💞️ I’m looking to collaborate on reinforcement learning project of any machine learning model.
-- 📫 How to reach me : contact me here on github
+- 🌱 I’m currently learning MAB and deep learning model
+- 💞️ I’m looking to collaborate on reinforcement learning project of any machine learning model
+- 📫 How to reach me : contact me here on github or check my linkedin -> https://www.linkedin.com/in/chayasin/
 
 ## Skills
 
 - Advance statistical and mathematical modelling
-- optimal control  of differential equations model
+- Optimal control of differential equations model
 - Deep knowladge of machine learning model
 
 ## Programming language
 
-- Python
+- Python (Data Science, Machine learning, Web Application, and Web Scraping/Crawling)
 - R
 - Matlab
 - Java 
@@ -31,14 +31,14 @@ Mainly use python for data science stuff, I am also interested in UX/UI design a
 
 ## Hobbies
 
-- I can play saxophone and piano - very well
-- I can write music score using Sibelius/MuseScore
+- I can play saxophone and piano 
+- I can write music score using Sibelius/MuseScore - very well.
 - I can make music using Garageband/Bandlab
 - I can do graphic design stuff using Photoshop/Illstrator - very well.
-- I read books and watch movies a lot
+- I read books and watch movies a lot!
 - Skilled in platformer games
 
 <!---
-Giraffe1010/Giraffe1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+chayasin/chayasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
