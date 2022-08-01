@@ -1,7 +1,7 @@
 # Welcome to Chayasin's github!
 
 - 👋 Hi, I’m @chayasin or Tenten is my nick name
-- 👀 I’m interested in Adaptive Leaning Model
+- 👀 I’m interested in Adaptive Leaning Model (Reinforcement learning model)
 - 🌱 I’m currently learning MAB and deep learning model
 - 💞️ I’m looking to collaborate on reinforcement learning project of any machine learning model
 - 📫 How to reach me : contact me here on github or check my linkedin -> https://www.linkedin.com/in/chayasin/
@@ -25,7 +25,7 @@ Mainly use python for data science stuff, I am also interested in UX/UI design a
 
 ## Language Skills
 
-- I am native thais, professional at writing and speaking
+- I am native thais - professional at writing and speaking
 - English: Professional working proficiency
 - Currently Studying German, and Chinese - still scratching the surface.
 
