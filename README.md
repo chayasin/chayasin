@@ -6,6 +6,9 @@
 - 💞️ I’m looking to collaborate on reinforcement learning project of any machine learning model
 - 📫 How to reach me: contact me here on github or check my linkedin -> https://www.linkedin.com/in/chayasin/
 
+
+# About me
+
 ## Skills
 
 - Advance statistical and mathematical modelling
