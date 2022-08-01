@@ -38,6 +38,8 @@ Mainly use python for data science stuff, I am also interested in UX/UI design a
 - I read books and watch movies a lot!
 - Skilled in platformer games
 
+Ps. I love milk coffee and hate americano
+
 <!---
 chayasin/chayasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
