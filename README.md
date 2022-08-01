@@ -1,4 +1,4 @@
-# Welcome to Chayasin's github!
+# Welcome to Tenten's github!
 
 - 👋 Hi, I’m @chayasin or Tenten is my nick name
 - 👀 I’m interested in Adaptive Leaning Model (Reinforcement learning model)
