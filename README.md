@@ -8,7 +8,7 @@
 
 # About my Github
 
-I will update my project which I have worked on. (Without confidential data)
+I will update my projects which I have worked on. (Without confidential data)
 
 I'm current writing a 'Python Challenge Projects' which is a python tutorial focused on text processing and web scraping (for now).
 
