@@ -4,7 +4,7 @@
 - 👀 I’m interested in Adaptive Leaning Model (Reinforcement learning model)
 - 🌱 I’m currently learning MAB and deep learning model
 - 💞️ I’m looking to collaborate on reinforcement learning project of any machine learning model
-- 📫 How to reach me : contact me here on github or check my linkedin -> https://www.linkedin.com/in/chayasin/
+- 📫 How to reach me: contact me here on github or check my linkedin -> https://www.linkedin.com/in/chayasin/
 
 ## Skills
 
