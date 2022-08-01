@@ -6,6 +6,11 @@
 - 💞️ I’m looking to collaborate on reinforcement learning project of any machine learning model
 - 📫 How to reach me: contact me here on github or check my linkedin -> https://www.linkedin.com/in/chayasin/
 
+# About my Github
+
+I will update my project which I have worked on. (Without confidential data)
+
+I'm current writing a 'Python Challenge Projects' which is a python tutorial focused on text processing and web scraping (for now).
 
 # About me
 
