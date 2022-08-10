@@ -22,14 +22,15 @@ I'm current writing a 'Python Challenge Projects' which is a python tutorial foc
 
 ## Programming language
 
-- Python (Data Science, Machine learning, Web Application, and Web Scraping/Crawling)
-- R
-- Matlab
-- Java 
-- HTLM and CSS (Currently study)
-- JavaScript (Currently study)
+- Python (Data Science, Machine learning, OPtimization, Web Application, and Web Scraping/Crawling)
+- R (Mainly for data science stuff such as glm, random-forest, etc.)
+- Matlab (Mainly use for optmization)
+- Java (I'mnot a java expert jst able to code general stuff - yes Python is my main programming language)
+- HTLM, CSS, PHP (Know most basic knowledge. I use it in web scraping, web application, and sometime hacking...?)
+- JavaScript (Know most basic knowledge. I use in creating website.)
 
-Mainly use python for data science stuff, I am also interested in UX/UI design as well.
+Mainly use python for most of the things.
+Ps. I am also interested in UX/UI design as well (In general, not only programming).
 
 ## Language Skills
 
