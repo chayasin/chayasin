@@ -47,7 +47,7 @@ Ps. I am also interested in UX/UI design as well (In general, not only programmi
 - I read books and watch movies a lot!
 - Skilled in platformer games
 
-Ps. I love milk coffee and hate americano
+Ps. I love milk coffee
 
 <!---
 chayasin/chayasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
