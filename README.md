@@ -45,7 +45,7 @@ Ps. I am also interested in UX/UI design as well (In general, not only programmi
 - I can make music using Garageband/Bandlab
 - I can do graphic design stuff using Photoshop/Illstrator - very well.
 - I read books and watch movies a lot!
-- Skilled in platformer games
+- Skilled in platformer games (Mario type games)
 
 Ps. I love milk coffee
 
