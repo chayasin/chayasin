@@ -9,34 +9,33 @@
 
 I will update my projects which I have worked on. (Yes, without confidential data)
 
-I'm current writing a 'Python Challenge Projects' which is a python tutorial focused on text processing and web scraping (for now).
-
 # About me
 
 ## Skills
 
 - Advanced statistical and mathematical modelling
 - Optimal control of differential equations model
-- Deep knowladge of machine learning models
-- Very good at Power BI / Google Data Studio (I love data visualisation!)
-- Pretty good at SQL
+- Deep knowledge of machine learning models
+- Good at pitching
 
 ## Programming language
 
-- Python (Data Science, Machine learning, Optimization, Web Scraping/Crawling, and API)
+- Python (Data Science, Machine learning, Data Engineering, Web Scraping/Crawling, and API)
+- JavaScripts (REACT, NodeJS, NextJS)
 - R (Mainly for data science stuff such as glm, random-forest, etc.)
-- Matlab (Mainly use for optmization)
-- HTLM, CSS, PHP (Know most basic knowledge. Mostly for web scraping, API, and Hacking)
-- Java (I'm not a java expert just able to code general stuffs - yes Python is my main programming language)
+- Matlab (Optmization model)
 
-Mainly use python for most of the things.
-Ps. I am also interested in UX/UI design as well (In general, not only programming).
+## Tools
+
+- AWS lover and also work with Huawei Cloud (<also good at this), GCP, and azure.
+- Docker, Docker Compose, and basic kubernetes.
+- Very good at Power BI / Google Data Studio (I love data visualisation!)
 
 ## Language Skills
 
 - I am native thais - professional at writing and speaking
 - English: Professional working proficiency
-- Currently Studying German, and Chinese - still scratching the surface.
+- Currently Studying Chinese
 
 ## Hobbies
 
